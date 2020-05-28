@@ -1,3 +1,11 @@
+
+<table class="tfo-notebook-buttons" align="left">
+  <td>
+    <a target="_blank" href="https://github.com/rritec/snowflake/blob/master/snowflake.png?raw=true"><img src="https://github.com/rritec/snowflake/blob/master/snowflake.png?raw=true" /></a>
+  </td>
+  
+</table>
+
 ##### THE DEMO ENVIRONMENT
 ---
   1. Creating Snowflake Instance
