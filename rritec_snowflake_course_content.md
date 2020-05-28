@@ -1,64 +1,84 @@
-**MODULE 1: THE DEMO ENVIRONMENT**
-
-  * 1.1 Logging in to Snowflake
-  * 1.2 Navigating the Snowflake UI
+###### THE DEMO ENVIRONMENT
+  1. Creating Snowflake Instance
+  1. Logging in to Snowflake  
+  1. Navigating the Snowflake UI
+  1. Connectors
   
-**MODULE 2: MODULE 2: PREPARING TO LOAD DATA**
-  * 2.1 Create a Table
-  * 2.2 Create an External Stage
-  * 2.3 Create a File Format
+  ###### ARCHITECTURE
+  1. Cloud Services Layer
+  1. Query Processing Layer
+  1. Database Storage Layer
+   
+   ###### VIRTUAL WAREHOUSE
+  1. Creating a Warehouse
+  1. Sizing and Scaling
+  1. Credit Usage
+  1. Caching
+  1. Monitoring  
   
-**MODULE 3: LOADING DATA**
-  * 3.1 Create a warehouse
-  * 3.2 Load the data
+###### PREPARING TO LOAD DATA
+  1. Create a Table
+  1. Create an External Stage
+  1. Create a File Format
   
-**MODULE 4: GRANTING ACCESS TO THE DATA**
-  * 4.1 Switch your current role
-  * 4.2 Grant access to another role
+###### LOADING DATA
+  1. Create a warehouse
+  1. Load the data
   
-**MODULE 5: RUNNING ANALYTICAL QUERIES**
-  * 5.1 Execute SELECT statements
+###### GRANTING ACCESS TO THE DATA
+  1. Switch your current role
+  1. Grant access to another role
   
-**MODULE 6: CREATING DEV-TEST**
-  * 6.1 Clone your SCHEMA
+###### RUNNING ANALYTICAL QUERIES
+  1. Execute SELECT statements
   
-**MODULE 7: WORKING WITH SEMI-STRUCTURED DATA**
-  * 7.1 Explore the shared data
-  * 7.2 Query semi-structured data
-  * 7.3 Create a view & push to prod
-  * 7.4 Create a combined view
-  * 7.5 Grant access to the view
+###### CREATING DEV-TEST
+  1. Clone your SCHEMA
   
-**MODULE 8: UTILISING TIME TRAVEL**
-  * 8.1 Undrop a table
-  * 8.2 Roll back a table
+###### WORKING WITH SEMI-STRUCTURED DATA
+  1. Explore the shared data
+  1. Query semi-structured data
+  1. Create a view & push to prod
+  1. Create a combined view
+  1. Grant access to the view
   
-**MODULE 9: DATA SHARING**
-  * 9.1 Create an Outbound Share
-  * 9.2 Import the share from the Consumer account
-  * 9.3 Update the Share from the Provider account
+###### UTILISING TIME TRAVEL
+  1. Undrop a table
+  1. Roll back a table
   
-**MODULE 10: Integrate with Python**
-  * 10.1 Read Data of snowflake using Python
-  * 10.2 Load data into Snowflake using Python
-  * 10.3 Update data using python
+###### DATA SHARING
+  1. Create an Outbound Share
+  1. Import the share from the Consumer account
+  1. Update the Share from the Provider account
   
-**MODULE 11: Integrate with POWER BI**
-  * 11.1 Connect Snowflake in Power BI
-  * 11.2 Develop Report in Power BI using Snowflake Database
+  ###### SECURITY
+  1. Enable Multi Factor Authn
+  1. Encryption in Snowflake
+  1. Virtual Private Snowflake
+  1. Key Rotation
+  1. Tri Secret Secure  
   
-**MODULE 12: Integrate with Spark**
-  * 12.1 Connect Snowflake using Spark
-  * 12.2 Read Data of snowflake using Spark
-  * 12.3 Load data into Snowflake using Spark
-  * 12.4 Update data using Spark
+###### Integrate with Python
+  1. Read Data of snowflake using Python
+  1. Load data into Snowflake using Python
+  1. Update data using python
   
-**MODULE 13: Data Science And Machine Learning**
-  * 13.1 Create Machine Learning Models using Snowflake
+###### Integrate with POWER BI
+  1. Connect Snowflake in Power BI
+  1. Develop Report in Power BI using Snowflake Database
   
-**MODULE 14: Projects**
-  * 13.1 Reatil Project
-  * 13.2 Healthcare Project
+###### Integrate with Spark
+  1. Connect Snowflake using Spark
+  1. Read Data of snowflake using Spark
+  1. Load data into Snowflake using Spark
+  1. Update data using Spark
+  
+###### Data Science And Machine Learning
+  1. Create Machine Learning Models using Snowflake
+  
+###### Projects
+  1. Reatil Project
+  1. Healthcare Project
 ----  
   **Duration Of Course:** 30 Days
   
