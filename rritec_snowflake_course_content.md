@@ -58,25 +58,25 @@
   1. Key Rotation
   1. Tri Secret Secure  
   
-###### Integrate with Python
+###### INTEGRATE WITH PYTHON
   1. Read Data of snowflake using Python
   1. Load data into Snowflake using Python
   1. Update data using python
   
-###### Integrate with POWER BI
+###### INTEGRATE WITH POWER BI
   1. Connect Snowflake in Power BI
   1. Develop Report in Power BI using Snowflake Database
   
-###### Integrate with Spark
+###### INTEGRATE WITH SPARK
   1. Connect Snowflake using Spark
   1. Read Data of snowflake using Spark
   1. Load data into Snowflake using Spark
   1. Update data using Spark
   
-###### Data Science And Machine Learning
+###### DATA SCIENCE & MACHINE LEARNING
   1. Create Machine Learning Models using Snowflake
   
-###### Projects
+###### PROJECTS
   1. Reatil Project
   1. Healthcare Project
 ----  
